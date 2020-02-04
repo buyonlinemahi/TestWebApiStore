@@ -1,0 +1,128 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{333E1D6B-29CB-4281-840D-09CF502DF871}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataTier", "DataTier", "{0BEA5A0C-BDBE-4E8C-821E-59A3FC8612BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessTier", "BusinessTier", "{5FAF3A26-16D5-48C5-81B1-C0677D9C5017}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Core.Data.Model", "OnlineStore.Core.Data.Model\OnlineStore.Core.Data.Model.csproj", "{19452F2E-F682-48CA-8EA4-F00F1382384B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Core.Data.SQLServer", "OnlineStore.Core.Data.SQLServer\OnlineStore.Core.Data.SQLServer.csproj", "{03220EA6-C47A-43C3-8924-57326EE62820}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Core.BLModel", "OnlineStore.Core.BLModel\OnlineStore.Core.BLModel.csproj", "{C8F03D87-B2CD-4EB1-9A0D-EFAF3A95FDEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Core.BL", "OnlineStore.Core.BL\OnlineStore.Core.BL.csproj", "{8D0CE87C-73E7-4AB0-BA59-F601DD46FB10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Core.BLImplementation", "OnlineStore.Core.BLImplementation\OnlineStore.Core.BLImplementation.csproj", "{DA8E3C29-A62B-447E-896D-F742AB677B84}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web Api", "Web Api", "{E6E9B0EA-3488-4687-8CD3-C9647D3102DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStoreService.DTO", "OnlineStoreService.DTO\OnlineStoreService.DTO.csproj", "{A843A5B7-11BA-40B9-8BAB-D519DDE09E96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTest", "UnitTest", "{9DED8974-B044-468C-8350-EDE83AC0FE17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.UnitTest", "OnlineStore.UnitTest\OnlineStore.UnitTest.csproj", "{5E897F9F-A333-4114-8200-F9B2F1A40444}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStoreWebApiService", "OnlineStoreWebApiService\OnlineStoreWebApiService.csproj", "{A5CF1E65-1C55-4D63-AC73-71C9D35E5CD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19452F2E-F682-48CA-8EA4-F00F1382384B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19452F2E-F682-48CA-8EA4-F00F1382384B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19452F2E-F682-48CA-8EA4-F00F1382384B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19452F2E-F682-48CA-8EA4-F00F1382384B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03220EA6-C47A-43C3-8924-57326EE62820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03220EA6-C47A-43C3-8924-57326EE62820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03220EA6-C47A-43C3-8924-57326EE62820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03220EA6-C47A-43C3-8924-57326EE62820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F03D87-B2CD-4EB1-9A0D-EFAF3A95FDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F03D87-B2CD-4EB1-9A0D-EFAF3A95FDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F03D87-B2CD-4EB1-9A0D-EFAF3A95FDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F03D87-B2CD-4EB1-9A0D-EFAF3A95FDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0CE87C-73E7-4AB0-BA59-F601DD46FB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0CE87C-73E7-4AB0-BA59-F601DD46FB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0CE87C-73E7-4AB0-BA59-F601DD46FB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0CE87C-73E7-4AB0-BA59-F601DD46FB10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8E3C29-A62B-447E-896D-F742AB677B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8E3C29-A62B-447E-896D-F742AB677B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8E3C29-A62B-447E-896D-F742AB677B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8E3C29-A62B-447E-896D-F742AB677B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A843A5B7-11BA-40B9-8BAB-D519DDE09E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A843A5B7-11BA-40B9-8BAB-D519DDE09E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A843A5B7-11BA-40B9-8BAB-D519DDE09E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A843A5B7-11BA-40B9-8BAB-D519DDE09E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E897F9F-A333-4114-8200-F9B2F1A40444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E897F9F-A333-4114-8200-F9B2F1A40444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E897F9F-A333-4114-8200-F9B2F1A40444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E897F9F-A333-4114-8200-F9B2F1A40444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CF1E65-1C55-4D63-AC73-71C9D35E5CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CF1E65-1C55-4D63-AC73-71C9D35E5CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CF1E65-1C55-4D63-AC73-71C9D35E5CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CF1E65-1C55-4D63-AC73-71C9D35E5CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0BEA5A0C-BDBE-4E8C-821E-59A3FC8612BB} = {333E1D6B-29CB-4281-840D-09CF502DF871}
+		{5FAF3A26-16D5-48C5-81B1-C0677D9C5017} = {333E1D6B-29CB-4281-840D-09CF502DF871}
+		{19452F2E-F682-48CA-8EA4-F00F1382384B} = {0BEA5A0C-BDBE-4E8C-821E-59A3FC8612BB}
+		{03220EA6-C47A-43C3-8924-57326EE62820} = {0BEA5A0C-BDBE-4E8C-821E-59A3FC8612BB}
+		{C8F03D87-B2CD-4EB1-9A0D-EFAF3A95FDEB} = {5FAF3A26-16D5-48C5-81B1-C0677D9C5017}
+		{8D0CE87C-73E7-4AB0-BA59-F601DD46FB10} = {5FAF3A26-16D5-48C5-81B1-C0677D9C5017}
+		{DA8E3C29-A62B-447E-896D-F742AB677B84} = {5FAF3A26-16D5-48C5-81B1-C0677D9C5017}
+		{A843A5B7-11BA-40B9-8BAB-D519DDE09E96} = {E6E9B0EA-3488-4687-8CD3-C9647D3102DB}
+		{9DED8974-B044-468C-8350-EDE83AC0FE17} = {333E1D6B-29CB-4281-840D-09CF502DF871}
+		{5E897F9F-A333-4114-8200-F9B2F1A40444} = {9DED8974-B044-468C-8350-EDE83AC0FE17}
+		{A5CF1E65-1C55-4D63-AC73-71C9D35E5CD5} = {E6E9B0EA-3488-4687-8CD3-C9647D3102DB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {697EC3AF-5BEF-40B0-BC1E-71DD4E211582}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.hcrg.com:8080/tfs/hcrg
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OnlineStore.Core.Data.Model\\OnlineStore.Core.Data.Model.csproj
+		SccProjectTopLevelParentUniqueName1 = OnlineStoreCoreService.sln
+		SccProjectName1 = OnlineStore.Core.Data.Model
+		SccLocalPath1 = OnlineStore.Core.Data.Model
+		SccProjectUniqueName2 = OnlineStore.Core.Data.SQLServer\\OnlineStore.Core.Data.SQLServer.csproj
+		SccProjectTopLevelParentUniqueName2 = OnlineStoreCoreService.sln
+		SccProjectName2 = OnlineStore.Core.Data.SQLServer
+		SccLocalPath2 = OnlineStore.Core.Data.SQLServer
+		SccProjectUniqueName3 = OnlineStore.Core.BLModel\\OnlineStore.Core.BLModel.csproj
+		SccProjectTopLevelParentUniqueName3 = OnlineStoreCoreService.sln
+		SccProjectName3 = OnlineStore.Core.BLModel
+		SccLocalPath3 = OnlineStore.Core.BLModel
+		SccProjectUniqueName4 = OnlineStore.Core.BL\\OnlineStore.Core.BL.csproj
+		SccProjectTopLevelParentUniqueName4 = OnlineStoreCoreService.sln
+		SccProjectName4 = OnlineStore.Core.BL
+		SccLocalPath4 = OnlineStore.Core.BL
+		SccProjectUniqueName5 = OnlineStore.Core.BLImplementation\\OnlineStore.Core.BLImplementation.csproj
+		SccProjectTopLevelParentUniqueName5 = OnlineStoreCoreService.sln
+		SccProjectName5 = OnlineStore.Core.BLImplementation
+		SccLocalPath5 = OnlineStore.Core.BLImplementation
+		SccProjectUniqueName6 = OnlineStoreService.DTO\\OnlineStoreService.DTO.csproj
+		SccProjectTopLevelParentUniqueName6 = OnlineStoreCoreService.sln
+		SccProjectName6 = OnlineStoreService.DTO
+		SccLocalPath6 = OnlineStoreService.DTO
+		SccProjectUniqueName7 = OnlineStore.UnitTest\\OnlineStore.UnitTest.csproj
+		SccProjectTopLevelParentUniqueName7 = OnlineStoreCoreService.sln
+		SccProjectName7 = OnlineStore.UnitTest
+		SccLocalPath7 = OnlineStore.UnitTest
+		SccProjectUniqueName8 = OnlineStoreWebApiService\\OnlineStoreWebApiService.csproj
+		SccProjectTopLevelParentUniqueName8 = OnlineStoreCoreService.sln
+		SccProjectName8 = OnlineStoreWebApiService
+		SccLocalPath8 = OnlineStoreWebApiService
+	EndGlobalSection
+EndGlobal

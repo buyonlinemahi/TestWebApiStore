@@ -1,0 +1,12 @@
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.Model\bin\Debug\netstandard2.0\OnlineStore.Core.Data.Model.deps.json
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.Model\bin\Debug\netstandard2.0\OnlineStore.Core.Data.Model.dll
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.Model\bin\Debug\netstandard2.0\OnlineStore.Core.Data.Model.pdb
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.Model\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.Model\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.Model\obj\Debug\netstandard2.0\OnlineStore.Core.Data.Model.csprojAssemblyReference.cache
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.Model\obj\Debug\netstandard2.0\OnlineStore.Core.Data.Model.csproj.CoreCompileInputs.cache
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.Model\obj\Debug\netstandard2.0\OnlineStore.Core.Data.Model.AssemblyInfoInputs.cache
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.Model\obj\Debug\netstandard2.0\OnlineStore.Core.Data.Model.AssemblyInfo.cs
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.Model\obj\Debug\netstandard2.0\OnlineStore.Core.Data.Model.csproj.CopyComplete
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.Model\obj\Debug\netstandard2.0\OnlineStore.Core.Data.Model.dll
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.Model\obj\Debug\netstandard2.0\OnlineStore.Core.Data.Model.pdb

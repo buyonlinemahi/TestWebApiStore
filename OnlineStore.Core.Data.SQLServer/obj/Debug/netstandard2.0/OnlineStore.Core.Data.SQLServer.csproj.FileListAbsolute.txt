@@ -1,0 +1,14 @@
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\bin\Debug\netstandard2.0\OnlineStore.Core.Data.SQLServer.deps.json
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\bin\Debug\netstandard2.0\OnlineStore.Core.Data.SQLServer.dll
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\bin\Debug\netstandard2.0\OnlineStore.Core.Data.SQLServer.pdb
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\bin\Debug\netstandard2.0\OnlineStore.Core.BLModel.dll
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\bin\Debug\netstandard2.0\OnlineStore.Core.Data.Model.dll
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\bin\Debug\netstandard2.0\OnlineStore.Core.BLModel.pdb
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\bin\Debug\netstandard2.0\OnlineStore.Core.Data.Model.pdb
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\obj\Debug\netstandard2.0\OnlineStore.Core.Data.SQLServer.csprojAssemblyReference.cache
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\obj\Debug\netstandard2.0\OnlineStore.Core.Data.SQLServer.csproj.CoreCompileInputs.cache
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\obj\Debug\netstandard2.0\OnlineStore.Core.Data.SQLServer.AssemblyInfoInputs.cache
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\obj\Debug\netstandard2.0\OnlineStore.Core.Data.SQLServer.AssemblyInfo.cs
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\obj\Debug\netstandard2.0\OnlineStore.Core.Data.SQLServer.csproj.CopyComplete
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\obj\Debug\netstandard2.0\OnlineStore.Core.Data.SQLServer.dll
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.Data.SQLServer\obj\Debug\netstandard2.0\OnlineStore.Core.Data.SQLServer.pdb

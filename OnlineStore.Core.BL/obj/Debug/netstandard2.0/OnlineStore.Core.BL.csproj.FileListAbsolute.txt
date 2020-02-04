@@ -1,0 +1,16 @@
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\bin\Debug\netstandard2.0\OnlineStore.Core.BL.deps.json
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\bin\Debug\netstandard2.0\OnlineStore.Core.BL.dll
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\bin\Debug\netstandard2.0\OnlineStore.Core.BL.pdb
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\bin\Debug\netstandard2.0\OnlineStore.Core.BLModel.dll
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\bin\Debug\netstandard2.0\OnlineStore.Core.Data.Model.dll
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\bin\Debug\netstandard2.0\OnlineStore.Core.Data.SQLServer.dll
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\bin\Debug\netstandard2.0\OnlineStore.Core.BLModel.pdb
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\bin\Debug\netstandard2.0\OnlineStore.Core.Data.Model.pdb
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\bin\Debug\netstandard2.0\OnlineStore.Core.Data.SQLServer.pdb
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\obj\Debug\netstandard2.0\OnlineStore.Core.BL.csprojAssemblyReference.cache
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\obj\Debug\netstandard2.0\OnlineStore.Core.BL.csproj.CoreCompileInputs.cache
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\obj\Debug\netstandard2.0\OnlineStore.Core.BL.AssemblyInfoInputs.cache
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\obj\Debug\netstandard2.0\OnlineStore.Core.BL.AssemblyInfo.cs
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\obj\Debug\netstandard2.0\OnlineStore.Core.BL.csproj.CopyComplete
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\obj\Debug\netstandard2.0\OnlineStore.Core.BL.dll
+D:\Mahi_TFS\Store (To Be Named After)\CoreService\OnlineStore.Core.BL\obj\Debug\netstandard2.0\OnlineStore.Core.BL.pdb
